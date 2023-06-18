@@ -1,5 +1,5 @@
 # ENE CAMP 12th
-Compro arduino code solution challenge and example
+COMPRO Arduino code solution challenge and example  
 
 ## example
  - Serial Communication
@@ -9,7 +9,7 @@ Compro arduino code solution challenge and example
  - map function
  - Time base multitasking
  - **Extra example**
-   - DHT11
+   - DHT11 (Lib by [Adafruit](https://github.com/adafruit/DHT-sensor-library))
    - Tone Melody (YOASOBI - アイドル)
 
 ## Solution for ***Problem 1 3 4 5 and Challenge***  
